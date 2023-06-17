@@ -15,9 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/camylla-ops/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=camylla-ops&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/camylla-ops/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=camylla-ops&repo=convoychat" />
-</a>
