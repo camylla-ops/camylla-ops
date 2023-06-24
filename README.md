@@ -15,8 +15,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camylla-ops&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
- <img align="left" height="250" alt="coding-time" src="♡ cola's pink gif blog ♡.gif">
-  <img align="left" height="250" alt="coding-time" src="igm.png">
+ <img align="left" height="200" alt="coding-time" src="♡ cola's pink gif blog ♡.gif">
+  <img align="left" height="200" alt="coding-time" src="igm.png">
 
  
 <div align="center"> 
