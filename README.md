@@ -16,7 +16,7 @@
 </div>
 
  <img align="left" height="200" alt="coding-time" src="♡ cola's pink gif blog ♡.gif">
-  <img align="left" height="200" alt="coding-time" src="igm.png">
+ <img align="left" height="200" alt="coding-time" src="igm.png">
 
  
 <div align="center"> 
@@ -25,6 +25,8 @@
   
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 
 </div>
 
