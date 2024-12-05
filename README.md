@@ -1,6 +1,6 @@
 <div align="center">
   <img src="gifinho.gif" alt="Imagem">
-  <p>Estudante de Análise e Desenvolvimento de Sistemas na Faculdade VINCIT, concluí recentemente o Bootcamp de Ciência de Dados na AdaTech e possuo formação no Bootcamp Analista de Dados da Soulcode Academy. Minha jornada é caracterizada por uma busca incessante por conhecimento e diversas experiências em áreas variadas. Tenho habilidades em Python, análise de dados, SQL, etc. e sou apaixonada por aprendizado contínuo. Sou adaptável, organizada e firmemente acredito que a diversidade de experiências enriquece a vida.</p>
+  <p>Estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas na Faculdade VINCIT. Formação em Ciência de Dados pela AdaTech e Análise de Dados pela Soulcode Academy. Apaixonada por aprendizado contínuo e tecnologia.</p>
   <a href="https://www.instagram.com/camylla.ops/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
