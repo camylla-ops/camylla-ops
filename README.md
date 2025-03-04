@@ -1,7 +1,7 @@
 <div align="center">
   <img src="gifinho.gif" alt="Imagem">
  
-  ### **📊 Analista de Dados 
+  ### 📊 Analista de Dados 
   
   <p>Estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas. Formação em Ciência de Dados pela AdaTech e Análise de Dados pela Soulcode Academy. Apaixonada por aprendizado contínuo e tecnologia.</p>
   
