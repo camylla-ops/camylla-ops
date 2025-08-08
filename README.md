@@ -2,7 +2,7 @@
   <img src="oi.gif" alt="Imagem">
  
 
-Em constante desenvolvimento, com paixão por tecnologia e pelo desafio do aprendizado contínuo.
+Em constante evolução, movida pela paixão por tecnologia e pelo desafio do aprendizado contínuo.
 
 Atualmente com foco no desenvolvimento back-end.
 
