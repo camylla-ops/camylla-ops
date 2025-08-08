@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="gifff.gif" alt="Imagem">
+  <img src="oi.gif" alt="Imagem">
  
 
 Apaixonada por tecnologia, desenvolvimento de software e dados.
