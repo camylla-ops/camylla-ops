@@ -2,11 +2,11 @@
   <img src="oi.gif" alt="Imagem">
  
 
-Apaixonada por tecnologia, desenvolvimento de software e dados.
+Em constante desenvolvimento, com paixão por tecnologia e pelo desafio do aprendizado contínuo.
 
 Atualmente com foco no desenvolvimento back-end.
 
-Atualmente cursando Engenharia de Software na Ampli e Análise e Desenvolvimento de Sistemas na FACINT.
+Cursando Engenharia de Software na Ampli e Análise e Desenvolvimento de Sistemas na FACINT.
 
 ---
 
