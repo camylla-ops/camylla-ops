@@ -6,7 +6,7 @@ Em constante evolução, movida pela paixão por tecnologia e pelo desafio do ap
 
 Atualmente com foco no desenvolvimento back-end.
 
-Cursando Engenharia de Software na Ampli e Análise e Desenvolvimento de Sistemas na FACINT.
+Cursando Análise e Desenvolvimento de Sistemas na FACINT.
 
 ---
 
